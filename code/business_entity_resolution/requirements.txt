@@ -1,0 +1,10 @@
+# Python 3.11+ (developed and run with CPython 3.13.12). All libraries are MIT / BSD / Apache-2.0 licensed.
+numpy==2.5.3
+pandas==3.0.3
+pyarrow==25.0.1
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+rapidfuzz==3.14.6
+sparse_dot_topn==1.2.0
+Unidecode==1.4.0
